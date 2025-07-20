@@ -1,0 +1,13 @@
+[package]
+name = "deadpool-libsql"
+version = "0.1.0"
+edition = "2021"
+rust-version = "1.80"
+authors = ["Junji Takakura <j.takakura@gmail.com>"]
+description = "Dead simple async pool for libSQL"
+keywords = ["async", "database", "pool", "libsql"]
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/jtakakura/deadpool-libsql"
+readme = "README.md"
+
+[dependencies]
